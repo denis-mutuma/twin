@@ -1,0 +1,22 @@
+{
+  "full_name": "Denis Mutuma",
+  "name": "Denis",
+  "current_role": "Embedded software engineer and ai engineer",
+  "location": "Nairobi, Kenya",
+  "email": "mutuma212@gmail.com",
+  "linkedin": "linkedin.com/in/denis-mutuma",
+  "specialties": [
+    "Embedded systems",
+    "ai engineering",
+    "edgde ai",
+    "robotics"
+  ],
+  "years_experience": 11,
+  "education": [
+    {
+      "degree": "Bachelor of science in mechatronic engineering",
+      "institution": "Dedan kimathi university of technology",
+      "year": "2015"
+    }
+  ]
+}
